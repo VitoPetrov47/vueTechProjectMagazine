@@ -22,7 +22,7 @@ export default {
 </script>
 
 <style>
-@import "../../app/public/style.css";
+@import "../public/style.css";
 #app {
   position:relative;
   min-height:100vh;
